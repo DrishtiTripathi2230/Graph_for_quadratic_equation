@@ -33,14 +33,16 @@ and then plots the corresponding *parabola graph* with all these points marked.
 ## 📦 Requirements
 Make sure you have Python 3 installed, then install dependencies:
 
-```bash
-pip install matplotlib numpy
-
-
 ## EXAMPLE :
 Enter values : 
 <img width="478" height="145" alt="image" src="https://github.com/user-attachments/assets/4585d3db-4eb6-47de-94c0-0d6edaaef787" />
 
 graph:
 <img width="762" height="601" alt="image" src="https://github.com/user-attachments/assets/0581a56e-7ae6-4fe0-b2b5-736856f69e8b" />
+
+
+```bash
+pip install matplotlib numpy
+
+
 
